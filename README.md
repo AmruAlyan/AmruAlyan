@@ -25,4 +25,4 @@ Next.js · React · Node.js · Flutter · PostgreSQL · Supabase · Firebase · 
 Git · GitHub Actions · Cloudflare · Docker · Linux
 
 🌐 Arabic (native) · Hebrew (fluent) · English (professional)
-📫 [LinkedIn](https://linkedin.com/in/amro-alyan-b84038335) · amru.aliyan@gmail.com
+📫 [LinkedIn](https://linkedin.com/in/amru-alyan-b84038335) · amru.aliyan@gmail.com
