@@ -5,7 +5,7 @@ I build full-stack web apps with **Next.js, TypeScript and PostgreSQL (Supabase)
 Open to Junior Software Engineer and Full-Stack roles.
 
 #### 🍪 Currently: [vandasweets.com](https://vandasweets.com)
-A live, Arabic, mobile-first ordering platform for Vanda Cookies & Sweets, a family business I co-founded. I designed, built and run it end to end (the code is private, as it belongs to the business).
+A live, Arabic, mobile-first ordering platform for Vanda Cookies & Sweets, a family business I co-founded with my sister, who runs daily operations. I designed, built and run it end to end (the code is private, as it belongs to the business).
 
 - **Stack:** Next.js 16 (static export), React 19, TypeScript, Supabase (PostgreSQL, Auth, Edge Functions), Cloudflare Pages, Resend
 - **Backend:** schema evolved through 44 migrations, deny-by-default Row Level Security, server-side price validation, 3 Edge Functions (orders API, email notifications, finance sync to Google Sheets)
